@@ -1,8 +1,11 @@
 ### Hi there 👋
-🎓 Student: SUAI / IFPI 👷 Speciality: Student/ Middle FE Delevoper
-💡 Skills 📢 Public talks: 0 👀 Open-source contribution
-🧑‍💻 Languages: JavaScript 📦 Tech stack: JavaScript, TypeScript, Vue, GraphQL, HTML/CSS, Nuxt 💬 telegram: @katanaaa
-📫 katanaosu@vk.com
+<code>👷 FE Developer: Азбука Вкуса / https://av.ru/</code>
+<code>🎓 Speciality: Middle FE Delevoper</code><br>
+<code>📢 [Public talks: 1](https://t.me/morskoyport)</code>
+<code>🧑‍💻 Languages: JavaScript</code>
+<code>📦 Tech stack: JavaScript, TypeScript, Vue, Nuxt, Vite, Docker, Git</code>
+<code>💬 telegram: [@morskoycat](https://telegram.me/morskoycat)</code>  
+<code>📫 [ahotickkk@mail.ru](mailto:ahotickkk@mail.ru)</code>
 
 <!--
 **eozubarev/eozubarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
