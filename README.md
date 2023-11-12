@@ -1,9 +1,9 @@
 ### Hi there 👋
-<code>👷 Work at: Азбука Вкуса / https://av.ru/</code>
+<code>👷 Work at: Азбука Вкуса / https://av.ru/</code><br>
 <code>🎓 Speciality: FE Delevoper</code><br>
-<code>📢 [Public talks: 1](https://t.me/morskoyport)</code>
-<code>🧑‍💻 Languages: JavaScript</code>
-<code>📦 Tech stack: JavaScript, TypeScript, Vue, Nuxt, Vite, Docker, Git</code>
+<code>📢 [Public talks: 1](https://t.me/morskoyport)</code><br>
+<code>🧑‍💻 Languages: JavaScript</code><br>
+<code>📦 Tech stack: JavaScript, TypeScript, Vue, Nuxt, Vite, Docker, Git</code><br>
 <code>🥎 hobbies: [youtube@morskoycat](https://www.youtube.com/@morskoycat)</code>  
 <code>💬 telegram: [@morskoycat](https://telegram.me/morskoycat)</code>  
 <code>📫 [ahotickkk@mail.ru](mailto:ahotickkk@mail.ru)</code>
