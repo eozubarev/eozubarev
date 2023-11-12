@@ -2,7 +2,8 @@
 <code>👷 Work at: Азбука Вкуса / ([av.ru](https://av.ru/))</code><br>
 <code>🎓 Speciality: Frontend Delevoper</code><br>
 <code>📍 Member of [Travel Point App](https://github.com/TP-IZM)</code><br>
-<code>📢 [Public talks: 1](https://t.me/morskoyport)</code>
+<code>📢 [Public talks: 1](https://t.me/morskoyport)</code><br>
+<br>
 <code>🧑‍💻 Languages: JavaScript</code><br>
 <code>📦 Tech stack: JavaScript, TypeScript, Vue, Nuxt, Vite, Docker, Git</code><br>
 <br>
