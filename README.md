@@ -1,4 +1,8 @@
 ### Hi there 👋
+🎓 Student: SUAI / IFPI 👷 Speciality: Student/ Middle FE Delevoper
+💡 Skills 📢 Public talks: 0 👀 Open-source contribution
+🧑‍💻 Languages: JavaScript 📦 Tech stack: JavaScript, TypeScript, Vue, GraphQL, HTML/CSS, Nuxt 💬 telegram: @katanaaa
+📫 katanaosu@vk.com
 
 <!--
 **eozubarev/eozubarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
