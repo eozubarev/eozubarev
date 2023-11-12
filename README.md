@@ -1,6 +1,6 @@
 ### Hi there 👋
-<code>👷 Work at: Азбука Вкуса / https://av.ru/</code><br>
-<code>🎓 Speciality: FE Delevoper</code><br>
+<code>👷 Work at: Азбука Вкуса / ([av.ru](https://av.ru/))</code><br>
+<code>🎓 Speciality: Frontend Delevoper</code><br>
 <code>📢 [Public talks: 1](https://t.me/morskoyport)</code>
 <code>🧑‍💻 Languages: JavaScript</code><br>
 <code>📦 Tech stack: JavaScript, TypeScript, Vue, Nuxt, Vite, Docker, Git</code><br>
