@@ -1,5 +1,4 @@
 ### Hi there 👋
-<code>👷 Work at: Азбука Вкуса / ([av.ru](https://av.ru/))</code><br>
 <code>🎓 Speciality: Frontend Delevoper</code><br>
 <code>📍 Member of [Travel Point App](https://github.com/TP-IZM)</code><br>
 <code>📢 [Public talks: 1](https://t.me/morskoyport)</code><br>
