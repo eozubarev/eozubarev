@@ -1,7 +1,7 @@
 ### Hi there 👋
 <code>🎓 Speciality: Frontend Engineer</code><br>
 <br>
-<code>🧑‍💻 Languages: JavaScript</code><br>
+<code>🧑‍💻 Languages: JavaScript, TypeScript, Phyton</code><br>
 <code>📦 Tech stack: JavaScript, TypeScript, Vue, Nuxt, Vite, Docker, Git</code><br>
 <br>
 <code>🥎 hobbies: [youtube@morskoycat](https://www.youtube.com/@morskoycat)</code>  
